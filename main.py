@@ -11,5 +11,5 @@ while True:
 	driver.close()
 
 	driver.switch_to.window(driver.window_handles[0])
-	time.sleep(10)
+	#time.sleep(10)
 	driver.close()
